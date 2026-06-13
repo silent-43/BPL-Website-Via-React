@@ -65,7 +65,7 @@ Add screenshots of your project here.
 
 ### Home Page
 
-![Home Page](../select-your-eleven/src/assets/homepage.png)
+![Home Page](https://i.ibb.co.com/cPNTWvy/homepage.png)
 
 ### Selected Players
 
