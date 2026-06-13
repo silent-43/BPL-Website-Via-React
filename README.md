@@ -45,20 +45,6 @@ jazzy-thing479671.surge.sh
 
 ---
 
-## 📊 State Management
-
-The application uses React Hooks:
-
-- `useState()` for:
-  - Available Balance
-  - Selected Players
-  - Toggle State
-
-- `Suspense` for:
-  - Handling player data loading
-
----
-
 ## 📸 Screenshots
 
 Add screenshots of your project here.
